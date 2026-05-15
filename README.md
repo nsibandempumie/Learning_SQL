@@ -58,7 +58,6 @@ After all operations run, the table looks like this:
 - [ ] Use `WHERE`, `ORDER BY`, and `LIMIT` in queries
 - [ ] Aggregate with `COUNT`, `AVG`, `MAX`
 - [ ] Try `GROUP BY` on real datasets
-- [ ] Connect SQL to Python with `sqlite3` or `psycopg2`
 
 ---
 
